@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="socket"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/client.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 client"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="client/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/client.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 client/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="usingDNS">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/usingDNS.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 usingDNS"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="usingDNS/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/usingDNS.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 usingDNS/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/server.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 server"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="server/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/server.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 server/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UDPServer">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/UDPServer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 UDPServer"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UDPServer/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/UDPServer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 UDPServer/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="version">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/version.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 version"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="version/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/version.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 version/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileClient">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/fileClient.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileClient"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileClient/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/fileClient.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileClient/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileServer">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/fileServer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileServer"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileServer/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/fileServer.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileServer/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="networkByteOrder">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/networkByteOrder.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 networkByteOrder"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="networkByteOrder/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/networkByteOrder.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 networkByteOrder/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UDPClient">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/UDPClient.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 UDPClient"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UDPClient/fast">
+				<Option output="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/UDPClient.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="H:/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 UDPClient/fast"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/15009276686/CLionProjects/socket/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f &quot;C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/UDPClient.cpp">
+			<Option target="UDPClient"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/UDPServer.cpp">
+			<Option target="UDPServer"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/byDNS.cpp">
+			<Option target="usingDNS"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/client.cpp">
+			<Option target="client"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/fileClient.cpp">
+			<Option target="fileClient"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/fileServer.cpp">
+			<Option target="fileServer"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/networkByteOrder.cpp">
+			<Option target="networkByteOrder"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/server.cpp">
+			<Option target="server"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/version.cpp">
+			<Option target="version"/>
+		</Unit>
+		<Unit filename="C:/Users/15009276686/CLionProjects/socket/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

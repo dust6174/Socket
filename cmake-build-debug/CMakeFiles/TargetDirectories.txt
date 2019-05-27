@@ -1,0 +1,11 @@
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/client.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/usingDNS.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/server.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/UDPServer.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/version.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/fileClient.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/fileServer.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/networkByteOrder.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/UDPClient.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/15009276686/CLionProjects/socket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
